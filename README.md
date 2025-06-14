@@ -1,6 +1,6 @@
 # ⚡ obs-game-capture-lib
 
-> The **fastest way** to get game frames in your C++ app — no OBS UI, no overhead, just raw frames at high FPS.
+> The **fastest way** to get game frames — no OBS UI, no overhead, just raw frames at high FPS.
 
 ---
 
