@@ -11,7 +11,7 @@ public:
     bool initialize();
     cv::Mat get_frame();
 private:
-	// Edit these paths as needed
+    // Edit these paths as needed
     std::wstring inject_path = L"C:\\Program Files\\obs-studio\\data\\obs-plugins\\win-capture\\inject-helper64.exe";
     std::wstring hook_path = L"C:\\Program Files\\obs-studio\\data\\obs-plugins\\win-capture\\graphics-hook64.dll";
     const char* get_graphics_offsets64 = R"("C:\Program Files\obs-studio\data\obs-plugins\win-capture\get-graphics-offsets64.exe")";
