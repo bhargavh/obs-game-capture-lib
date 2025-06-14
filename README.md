@@ -6,7 +6,7 @@
 
 ## 🎯 What is this?
 
-**`obs-game-capture-lib`** is a lightweight C++ library that hooks into OBS Studio’s **game capture internals** to provide a **programmatic API** for grabbing frames from any game window — with **low latency**, **high performance**, and **minimal system load**.
+**`obs-game-capture-lib`** is a lightweight C++ library that uses OBS Studio’s **game capture internals** to provide a **programmatic API** for grabbing frames from any game window — with **low latency**, **high performance**, and **minimal system load**.
 
 If you're building tools for:
 
